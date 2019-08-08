@@ -1,0 +1,12 @@
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Example\Example\bin\Debug\Example.exe
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Example\Example\bin\Debug\Example.pdb
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Example\Example\bin\Debug\Example.xml
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Example\Example\bin\Debug\Guna.UI.dll
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Example\Example\bin\Debug\Guna.UI.pdb
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Example\Example\obj\Debug\Example.vbprojResolveAssemblyReference.cache
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Example\Example\obj\Debug\Example.Form1.resources
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Example\Example\obj\Debug\Example.Resources.resources
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Example\Example\obj\Debug\Example.vbproj.GenerateResource.Cache
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Example\Example\obj\Debug\Example.exe
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Example\Example\obj\Debug\Example.xml
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Example\Example\obj\Debug\Example.pdb
