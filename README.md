@@ -1,5 +1,6 @@
 # Guna.UI Framework | C#, VB.NET WinForms
 Version: 1.2 Beta
+.NET Framework version 4.0 or higher (for example, 4.5 or 4.6).
 
 # 50+ Controls & Components
 * GunaAdvenceButton
